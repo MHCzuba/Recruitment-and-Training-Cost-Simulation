@@ -1,1 +1,3 @@
 # Training-Cost-Simulation
+
+This project leverages a Monte Carlo simulation using the Beta distribution to model quarterly employee turnover, providing a data-driven approach to workforce planning. By simulating different turnover scenarios, the model estimates recruitment costs, training expenses, and the time required to onboard new hires. This allows for proactive budgeting and resource allocation, helping organizations mitigate risks associated with workforce fluctuations. For technical stakeholders, the Beta distribution ensures realistic projections by capturing turnover variability within expected bounds, while decision-makers gain actionable insights to optimize hiring strategies and control operational costs.
